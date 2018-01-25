@@ -2,6 +2,7 @@ var HTTPS = require('https');
 var cool = require('cool-ascii-faces');
 // appears to be a method that calls the random faces in groupMe,
 // var rollD20();
+// test comment to add to the repo
 var botID = process.env.BOT_ID;
 
 function respond() {// this.req is a built in the language for this Request
