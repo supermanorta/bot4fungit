@@ -9,7 +9,8 @@ var app = angular.module('MyAngularApp',[]);
 //{
 //	  "name": "Cool guy bot",
 //	  "description": "Basic Groupme Bot written in Node",
-//	  "repository": "https://github.com/petemcgrath/cool-guy-bot",
+//	  //"repository": "https://github.com/petemcgrath/cool-guy-bot",
+//      "repository": "https://github.com/supermanorta/bot4fungit.git"
 //	  "logo": "http://www.tailgate365.com/wp-content/uploads/2011/06/tom-hanks-906.jpg",
 //	  "keywords": []
-//	}
+//}
