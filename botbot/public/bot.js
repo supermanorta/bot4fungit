@@ -1,5 +1,6 @@
 var HTTPS = require('https');
 var cool = require('cool-ascii-faces');
+var noname = require('./noname.js');
 // appears to be a method that calls the random faces in groupMe,
 // var rollD20();
 // test comment to add to the repo
